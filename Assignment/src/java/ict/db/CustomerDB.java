@@ -23,7 +23,7 @@ public class CustomerDB {
     private String url = "";
     private String username = "";
     private String password = "";
-    
+    //
     public CustomerDB(String url, String username, String password){
         this.url = url;
         this.username = username;
