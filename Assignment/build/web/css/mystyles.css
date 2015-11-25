@@ -37,23 +37,6 @@ nav {
     opacity:0.7;
 }
 
-#registerTable{
-    font-size:20px;
-    position:fixed;
-    left:30%;
-}
-
-#registerText{
-    font-size: 20px;
-    width: 250px;
-}
-
-#but{
-    background-color:#81DAF5;
-    color:white;
-    font-size: 25px;
-}
-
 #col:hover{text-decoration:none; color:#58D3F7;}
 #col:hover{text-decoration:none; color:#58D3F7;}
 #col:hover{text-decoration:none; color:#58D3F7;}
